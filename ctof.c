@@ -1,7 +1,7 @@
 /****************************************************************************
  * celsius_to_farenheit.c
  * Computer Science 50
- * Nataliia Vynogradenko
+ * Nataliia Movchan
  *
  * Convert temperature in Celsius to Farenheit
  ***************************************************************************/

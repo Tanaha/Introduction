@@ -1,7 +1,7 @@
 /****************************************************************************
  * letters.c
  * Computer Science 50
- * Nataliia Vynogradenko
+ * Nataliia Movchan
  *
  * Printing letters with different cases
  ***************************************************************************/
